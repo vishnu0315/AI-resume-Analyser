@@ -34,4 +34,6 @@ This project helps users understand how their resumes perform against job requir
 6. The ATS match score is displayed to the user.  
 
 ---
+<img width="1920" height="1080" alt="AIRA 1" src="https://github.com/user-attachments/assets/f8ad3e7e-2565-4234-a916-8c5f9d736c5a" />
 
+<img width="1920" height="1080" alt="AIRA 2" src="https://github.com/user-attachments/assets/e41a0191-37d5-4b1a-b1b7-9b77ef14780c" />
