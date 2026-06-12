@@ -22,7 +22,7 @@ This project helps users understand how their resumes perform against job requir
 - NLTK (Natural Language Processing)  
 - Scikit-learn  
 - PDFPlumber  
-g
+
 ---
 
 ## How It Works
